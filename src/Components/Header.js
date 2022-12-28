@@ -7,7 +7,7 @@ function Header(props) {
         <div className='header-container'>
             <img src={logo} alt='logo'></img>
             <h1>
-                gradient
+                Make-a-Gradient
                 <span
                     style={{
                         fontFamily: 'Times New Roman',
@@ -19,7 +19,7 @@ function Header(props) {
                 </span>
                 png
             </h1>
-            <p>BETA</p>
+            
         </div>
     );
 }
